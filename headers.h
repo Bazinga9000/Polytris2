@@ -1,0 +1,19 @@
+#pragma once
+#include <iostream>
+#include <vector>
+#include <random>
+#include <tuple>
+#include <cmath>
+#include <algorithm>
+#include <string>
+#include <array>
+#include <numeric>
+#include <SFML/Graphics.hpp>
+#include <SFML/Audio.hpp>
+#include <fstream>
+#include <ostream>
+#include <deque>
+
+#include "polyarrays.h"
+#include "RNG.h"
+#include "polyominoes.h"
